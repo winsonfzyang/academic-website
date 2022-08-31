@@ -27,12 +27,12 @@ name = "winson"
   # Menu
   menu_primary = "#272935"
   menu_text = "#ffffff"
-  menu_text_active = "#a9aaab"
+  menu_text_active = "#e7498d"
   menu_title = "#ffffff"
 
   # Links
-  link = "#ffffff"
-  link_hover = "#bbdefb"
+  link = "#e7498d"
+  link_hover = "#a4000d"
 
   # Backgrounds
   background = "#272935"
