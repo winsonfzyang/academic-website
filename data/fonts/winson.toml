@@ -1,0 +1,16 @@
+
+# Font style metadata
+name = "winson"
+
+# Optional Google font URL
+google_fonts = "family=Josefin+Slab:wght@700&family=Raleway:wght@300"
+
+# Font families
+heading_font = "Josefin Slab"
+body_font = "Raleway"
+nav_font = "Raleway"
+mono_font = "Raleway"
+
+# Font size
+font_size = "18"
+font_size_small = "15"

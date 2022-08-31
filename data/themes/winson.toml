@@ -1,0 +1,40 @@
+# Theme metadata
+name = "winson"
+
+[light]
+  # Primary
+  primary = "#ee5863"
+
+  # Menu
+  menu_primary = "#fcfcfc"
+  menu_text = "#000000"
+  menu_text_active = "#e7498d"
+  menu_title = "#000000"
+
+  # Links
+  link = "#e7498d"
+  link_hover = "#a4000d"
+
+  # Backgrounds
+  background = "#fcfcfc"
+  home_section_odd = "#fcfcfc"
+  home_section_even = "#e5e5e5"
+
+[dark]
+  # Primary
+  primary = "#bbdefb"
+
+  # Menu
+  menu_primary = "#272935"
+  menu_text = "#ffffff"
+  menu_text_active = "#a9aaab"
+  menu_title = "#ffffff"
+
+  # Links
+  link = "#ffffff"
+  link_hover = "#bbdefb"
+
+  # Backgrounds
+  background = "#272935"
+  home_section_odd = "#272935"
+  home_section_even = "#23252f"
